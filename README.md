@@ -41,7 +41,7 @@
 
 <body>
     <div id="conteudo">
-        <h2>Escolha uma opção?</h2>
+        <h2>Escolha uma opção :)</h2>
         <div style="margin: auto;width: 170px;">
             <button class="btn fixed" onclick="sim()">01 Recomendado</button>
             <button class="btn absolute" onclick="desvia(this)" onmouseover="desvia(this)">02 Não recomendado</button>
